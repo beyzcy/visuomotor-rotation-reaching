@@ -1,0 +1,8 @@
+trial,phase,rotation_deg,target_angle_deg,target_x,target_y,reaction_time_s,movement_time_s
+0,baseline,0,45.0,712.1,187.9,0.2785,0.2716
+1,baseline,0,0.0,800.0,400.0,0.2021,0.2246
+2,baseline,0,180.0,200.0,400.0,0.2416,0.1359
+3,baseline,0,315.0,712.1,612.1,0.2093,0.1695
+4,baseline,0,90.0,500.0,100.0,0.2164,0.1723
+5,baseline,0,225.0,287.9,612.1,0.3269,0.2224
+6,baseline,0,270.0,500.0,700.0,0.2689,0.1719
